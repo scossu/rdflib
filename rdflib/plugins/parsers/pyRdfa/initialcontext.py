@@ -24,7 +24,7 @@ initial_context["http://www.w3.org/2011/rdfa-context/rdfa-1.1"].ns = {
 	'as'		: 'https://www.w3.org/ns/activitystreams#',
 	'dcat'		: 'http://www.w3.org/ns/dcat#',
 	'dqv'		: 'http://www.w3.org/ns/dqv#',
-	'duv'		: 'https://www.w3.org/TR/vocab-duv/',
+	'duv'		: 'https://www.w3.org/TR/vocab-duv#',
     'qb'		: 'http://purl.org/linked-data/cube#',
     'org'		: 'http://www.w3.org/ns/org#',
 	'owl'		: 'http://www.w3.org/2002/07/owl#',
